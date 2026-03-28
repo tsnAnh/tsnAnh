@@ -25,8 +25,6 @@ I build Android and Flutter apps, and lately been spending most of my time on AI
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tsnAnh&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsnAnh&layout=compact&theme=default&hide_border=true&langs_count=8)
-
 ## Get in touch
 
 - [LinkedIn](https://www.linkedin.com/in/tsnanh/)
