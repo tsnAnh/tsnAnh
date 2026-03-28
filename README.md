@@ -21,6 +21,12 @@ I build Android and Flutter apps, and lately been spending most of my time on AI
 - **Cloud** -- AWS, Firebase, Docker, CI/CD
 - **AWS Certified Machine Learning Engineer -- Associate**
 
+## GitHub activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsnAnh&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tsnAnh&theme=default&hide_border=true)
+
 ## Get in touch
 
 - [LinkedIn](https://www.linkedin.com/in/tsnanh/)
